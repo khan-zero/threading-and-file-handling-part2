@@ -1,0 +1,4 @@
+if mood == sad:
+    take.break()
+else:
+    keep.coding
